@@ -16,4 +16,4 @@ CSS3 – for styling and layout
 
 VS Code – for writing and editing code
 
-Git – for version control
+Git – for version control.
